@@ -1,0 +1,1 @@
+const apiAntiADBLOCK="/ads.js";var hostUri="ads2duniaislamonline.netlify.app";const targetDirect="https://shope.ee/4fJau0wu5y";(()=>{const t=document.createElement("script");t.setAttribute("src","https://"+hostUri+"/ads.js"),document.querySelector("body").append(t),t.onerror=(()=>{window.location.href=targetDirect})})();
